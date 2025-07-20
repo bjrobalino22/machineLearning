@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hola mundo desde un fichero.
+=======
+Hola mundo desde un fichero aqui estamos en machine.
+>>>>>>> cd48737651bc7bd56dfc542e74e6f258c0e121f6
